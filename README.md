@@ -8,4 +8,4 @@ The theme of this project is carbon neutrality, and I was guided by my superviso
 
 [Weblog](https://khalilhsudesign.notion.site/Final-Project-Development-Process-f6ef446336e54653bcc34bb98d83eac6)
 
-[Video]()
+[Video](https://youtu.be/ZL0v8SQto1A)
